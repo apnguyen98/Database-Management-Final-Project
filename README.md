@@ -16,9 +16,11 @@ Anh Nguyen: @apnguyen98
 
 ## Introduction
 
-This project aims to restructure this JSON dataset by extracting it to DBeaver using SQL database and joining the extracted values 
+This project aims to restructure this JSON dataset by extracting it to a Python Notebook using SQLite database and joining the extracted values 
 with the original table. I will clean the data with SQL queries by handling missing values, 
-removing duplicates and converting data types, if necessary. Using this new set of data, I hope 
+removing duplicates and converting data types, if necessary. //
+
+Using this new set of data, I hope 
 to conduct some basic exploratory data analyses such as summarizing its descriptive statistics 
 and visualizing the data to gain insights and identify patterns and correlations within the 
 dataset. Last but not least, I plan to explore the distribution of review ratings to understand the 
