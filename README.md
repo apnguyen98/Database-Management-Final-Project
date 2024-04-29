@@ -1,5 +1,5 @@
 # Database-Management-Final-Project
-# Sorting Amazon Kindle Reviews
+# Sorting Amazon Kindle Ratings + Sentiment Analysis on Reviews
 
 ## Type of Project:
 Restructure a flattened and/or denormalized dataset so it can be loaded into a SQL or Graph database. 
